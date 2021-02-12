@@ -6,5 +6,7 @@ Espero no dejar esto muerto y en un futuro cuando codee un poco mejor en Cpp vol
 
 ## Lo que estoy usando
 
-- [Qt](https://www.qt.io/product/development-tools)
-- [Docs](https://devdocs.io/cpp/)
+- [Qt - IDE](https://www.qt.io/product/development-tools)
+- [Cpp Docs](https://devdocs.io/cpp/)
+
+> Puedes abrir el proyecto en Qt Creator : )
